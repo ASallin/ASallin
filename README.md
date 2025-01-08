@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌍 [Personal Website](www.aureliensallin.ch) 🌟 [LinkedIn](https://www.linkedin.com/in/aur%C3%A9lien-sallin-365148100) 
+🌍 [Personal Website](https://www.aureliensallin.ch/) 🌟 [LinkedIn](https://www.linkedin.com/in/aur%C3%A9lien-sallin-365148100) 
 
 I am a data scientist & economist and part of the health services research team of SWICA, one of the biggest health insurance companies in Switzerland.  
 <!--I am part of the Research Data Team, where we are responsible for the technical infrastructure, extract and process data, conceptualize and implement statistical analyses, and collaborate with internal and external stakeholders on scientific publications and internal analytical projects.
